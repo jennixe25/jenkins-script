@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#descr: Jenkins Installation steps
+
+#first intstall java
+
+sudo yum install java-1.8.0-openjdk-devel                                                        flush mmx fxsr
+                                                                                                 clmulqdq monit
+if                                                                                               invpcid_single
+
+[ $? -eq 0 ]
+
+then
+echo "next step"
+else
+echo "try again"
+exit 1
+fi
