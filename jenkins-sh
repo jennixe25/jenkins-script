@@ -4,9 +4,8 @@
 
 #first intstall java
 
-sudo yum install java-1.8.0-openjdk-devel                                                        flush mmx fxsr
-                                                                                                 clmulqdq monit
-if                                                                                               invpcid_single
+sudo yum install java-1.8.0-openjdk-devel                                                                                                                                            clmulqdq monit
+if                                                                                           
 
 [ $? -eq 0 ]
 
